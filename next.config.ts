@@ -4,15 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'cdn.sanity.io',
-      },
-      {
-        protocol: 'https',
-        hostname: 'newsapi.org',
-      },
-      {
-        protocol: 'https',
-        hostname: '**.googleusercontent.com', // Optional for some articles
+        hostname: '**',
       },
     ],
   },

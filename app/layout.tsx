@@ -30,7 +30,7 @@ export default function RootLayout({
             </div>
           </div>
         </nav>
-        <main className="container mx-auto mt-8">{children}</main>
+        <main className="px-3 container mx-auto mt-8">{children}</main>
       </body>
     </html>
   )
