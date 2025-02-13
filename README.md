@@ -2,6 +2,9 @@
 
 A dynamic **News Website** built with **Next.js, TailwindCSS, and NewsAPI**. This project allows users to browse the latest news, filter by category, search for specific articles, and view detailed news content.  
 
+![image](https://github.com/user-attachments/assets/066cf115-a5ea-4bfe-8580-c6987297ff05)
+
+
 ## ✨ Features  
 
 ✅ Fetches and displays live news from [NewsAPI.org](https://newsapi.org/)  
